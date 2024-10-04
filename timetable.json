@@ -1,0 +1,72 @@
+{
+  "treinritten": [
+    {
+      "vertrekstation": "Amsterdam",
+      "eindstation": "Amsterdam Zuid",
+      "rittijd": 9,
+      "afstand": 3.8,
+      "vertrektijden": [7, 17, 27, 37, 47, 57]
+    },
+    {
+      "vertrekstation": "Amsterdam Zuid",
+      "eindstation": "Amsterdam",
+      "vertrektijden": [2, 12, 22, 32, 42, 52]
+    },
+    {
+      "vertrekstation": "Amsterdam Zuid",
+      "eindstation": "Utrecht Centraal",
+      "rittijd": 27,
+      "afstand": 41.3,
+      "vertrektijden": [24, 54]
+    },
+    {
+      "vertrekstation": "Utrecht Centraal",
+      "eindstation": "Amsterdam Zuid",
+      "rittijd": 27,
+      "afstand": 41.3,
+      "vertrektijden": [18, 48]
+    },
+    {
+      "vertrekstation": "Utrecht Centraal",
+      "eindstation": "Amersfoort Centraal",
+      "rittijd": 13,
+      "afstand": 23.1,
+      "vertrektijden": [7, 19, 37, 49]
+    },
+    {
+      "vertrekstation": "Amersfoort Centraal",
+      "eindstation": "Utrecht Centraal",
+      "rittijd": 13,
+      "afstand": 23.1,
+      "vertrektijden": [3, 15, 33, 45]
+    },
+    {
+      "vertrekstation": "Amersfoort Centraal",
+      "eindstation": "Amersfoort Schothorst",
+      "rittijd": 7,
+      "afstand": 4.5,
+      "vertrektijden": [12, 29, 42, 59]
+    },
+    {
+      "vertrekstation": "Amersfoort Schothorst",
+      "eindstation": "Amersfoort Centraal",
+      "rittijd": 7,
+      "afstand": 4.5,
+      "vertrektijden": [1, 18, 31, 48]
+    },
+    {
+      "vertrekstation": "Amsterdam Zuid",
+      "eindstation": "Utrecht Centraal",
+      "rittijd": 27,
+      "afstand": 41.3,
+      "vertrektijden": [24, 54]
+    },
+    {
+      "vertrekstation": "Amsterdam Zuid",
+      "eindstation": "Utrecht Centraal",
+      "rittijd": 27,
+      "afstand": 41.3,
+      "vertrektijden": [24, 54]
+    }
+  ]
+}
